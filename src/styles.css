@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.searchBar {
+  width: 50vw;
+  display: flex;
+  left: 25%;
+  margin: 16px;
+}
